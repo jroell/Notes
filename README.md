@@ -1,4 +1,4 @@
-# Vurvey API Entities and Relations
+# Vurvey Entities and Relations
 
 This document provides a comprehensive overview of Vurvey's entity relationships. The documentation is organized by core domains and includes relationship diagrams to help visualize the connections between different entities.
 
