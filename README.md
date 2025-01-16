@@ -1,6 +1,6 @@
 # Vurvey API Entities and Relations
 
-This document provides a comprehensive overview of the Vurvey API's database schema and entity relationships. The documentation is organized by core domains and includes relationship diagrams to help visualize the connections between different entities.
+This document provides a comprehensive overview of Vurvey's entity relationships. The documentation is organized by core domains and includes relationship diagrams to help visualize the connections between different entities.
 
 ## Core Domains
 
